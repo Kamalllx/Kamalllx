@@ -1,12 +1,100 @@
-# 💫 About Me:
-I am Kamal Karteek U<br>I’m currently learning Python, Web3, Web Development<br>you can reach me on kamalkarteek1@gmail.com<br> I am current pursuing my degree in CSE(Cyber Security) in MSRIT
+<div align="center">
+  <h1>
+    <a href="https://git.io/typing-svg">
+      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&duration=2000&pause=1000&color=33F745&center=true&vCenter=true&width=550&height=60&lines=Hi+I+am+Kamal+Karteek+U!;A+Curious+Mind;A+Passionate+Developer" alt="Typing SVG" />
+    </a>
+  </h1>
+</div>
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/UUzJGMsh) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Kamal_Karteek) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kamal-karteek-u/)
+<h3 align="center">🔒 Cybersecurity & Full-Stack Enthusiast | 🚀 Exploring AI, Blockchain & RAG | Constantly Evolving</h3>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Jinja](https://img.shields.io/badge/jinja-white.svg?style=for-the-badge&logo=jinja&logoColor=black) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Kamalllx&icon=0&color=6)](https://visitcount.itsvg.in)
 
+## 🚀 **About Me**
+- 🎓 **Undergraduate CSE Student @ Ramaiah Institute of Technology (RIT)**
+- 🛡 Passionate about **Cybersecurity, Full-Stack Development, and AI/ML**
+- 🏆 **Hackathon & CTF Winner** (picoCTF 2024, BIT Hackathon, PES Hackathon, etc.)
+- 🏆 **Runner-Up @ Smart India Hackathon 2024 (SIH'24)**
+- 🔍 Exploring **LangChain, RAG, Blockchain, and AI-Powered Chatbots**
+- 🔥 **Core Member @ secuRIT Club (Cyber Security Club)**
+
+---
+
+## 🏆 **Hackathon Achievements**
+🥇 **1st Place** @ BIT Hackathon 2024  
+🥇 **1st Place** @ PES Hackathon (CIDECODE) 2025  
+🥇 **1st Place** @ MSRIT Hackathon (wHACKiest) 2024  
+🥈 **2nd Place** @ MIT CTF 2024  
+🥈 **2nd Place** @ AIT Hackathon 2024  
+🥉 **3rd Place** @ JIT Hackathon 2024  
+🔥 **Under 700 Global Rank @ picoCTF 2024**  
+
+---
+
+## 🛠 **Tech Stack & Skills**
+### 🔹 **Programming Languages**
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+</p>
+
+### 🔹 **Frameworks & Libraries**
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="ReactJS" width="40" height="40"/> 
+  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="NextJS" width="40" height="40"/> 
+  <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="Flask" width="40" height="40"/> 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-Learn" width="40" height="40"/>
+  <img src="https://seeklogo.com/images/L/langchain-logo-56EC6E77E7-seeklogo.com.png" alt="LangChain" width="100" height="40"/>
+</p>
+
+### 🔹 **Machine Learning & AI**
+- **Natural Language Processing (NLP)**
+- **Retrieval-Augmented Generation (RAG) Framework**
+- **LangChain Website Parser for Document Retrieval & Parsing**
+- **Working with Pre-trained ML Models**
+- **Integration of AI Models like Gemini**
+
+### 🔹 **Databases**
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/> 
+  <img src="https://www.vectorlogo.zone/logos/json/json-icon.svg" alt="JSON" width="40" height="40"/> 
+</p>
+
+### 🔹 **Simulation & Data Processing**
+- **MATLAB**
+
+### 🔹 **Chatbot Development**
+- **AI-powered chatbot creation**
+- **Data-driven Q&A systems**
+- **Multi-lingual chatbots**
+
+---
+
+## 📊 **GitHub Stats & Activity (From September 2023 - Present)**
+
+<div align="center">
+  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=kamalllx&theme=dracula&since=2023-09-01" alt="GitHub Activity Graph">
+</div>
+
+---
+
+## 🌟 **Top Languages**
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kamalllx&theme=radical&layout=compact&since=2023-09-01" alt="Top Languages" />
+</div>
+
+---
+
+## 📬 **Contact Me**
+📧 **Email:** [kamalkarteek1@gmail.com](mailto:kamalkarteek1@gmail.com)  
+📍 **Location:** Bengaluru, India  
+📱 **Phone:** +91 9108055864  
+🔗 **LinkedIn:** [kamal-karteek](https://www.linkedin.com/in/kamal-karteek-u/)  
+
+---
+
+⭐ **If you like my work, consider giving my repositories a star!** ⭐  
