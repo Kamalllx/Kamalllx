@@ -1,3 +1,4 @@
+<br clear="both">
 <div align="center">
   <h1>
     <a href="https://git.io/typing-svg">
@@ -6,73 +7,57 @@
   </h1>
 </div>
 
-<h3 align="center">🔒 Cybersecurity & Full-Stack Enthusiast | 🚀 Exploring AI, Blockchain & RAG | Constantly Evolving</h3>
+<h3 align="center">SIH'24 Runner Up| Exploring AI, Blockchain, RAG, Agentic AI & MCP |</h3>
+<h3 align="center">Vice Presidnt @ AWS Cloud Club RIT | Core Member @ SecuRIT | </h3>
+<h3 align="center">Project Intern @ CMTI| Project Intern @ OPQ Tech |</h3>
 
 
----
 
-## 🚀 **About Me**
-- 🎓 **Undergraduate CSE Student @ Ramaiah Institute of Technology (RIT)**
-- 🛡 Passionate about **Cybersecurity, Full-Stack Development, and AI/ML**
-- 🏆 **Hackathon & CTF Winner** (picoCTF 2024, BIT Hackathon, PES Hackathon, etc.)
-- 🏆 **Runner-Up @ Smart India Hackathon 2024 (SIH'24)**
-- 🔍 Exploring **LangChain, RAG, Blockchain, and AI-Powered Chatbots**
-- 🔥 **Core Member @ secuRIT Club (Cyber Security Club)**
+###
 
----
+<br clear="both">
 
-## 🏆 **Hackathon Achievements**
-🥇 **1st Place** @ BIT Hackathon 2024  
-🥇 **1st Place** @ PES Hackathon (CIDECODE) 2025  
-🥇 **1st Place** @ MSRIT Hackathon (wHACKiest) 2024  
-🥈 **2nd Place** @ MIT CTF 2024  
-🥈 **2nd Place** @ AIT Hackathon 2024  
-🥉 **3rd Place** @ JIT Hackathon 2024  
-🔥 **Under 700 Global Rank @ picoCTF 2024**  
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="30" alt="amazonwebservices logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="30" alt="tensorflow logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="30" alt="pandas logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="30" alt="numpy logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="30" alt="angularjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+</div>
 
----
 
-## 🛠 **Tech Stack & Skills**
-### 🔹 **Programming Languages**
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-</p>
+#
 
-### 🔹 **Frameworks & Libraries**
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="ReactJS" width="40" height="40"/> 
-  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="NextJS" width="40" height="40"/> 
-  <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="Flask" width="40" height="40"/> 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-Learn" width="40" height="40"/>
-  <img src="https://seeklogo.com/images/L/langchain-logo-56EC6E77E7-seeklogo.com.png" alt="LangChain" width="100" height="40"/>
-</p>
-
-### 🔹 **Machine Learning & AI**
-- **Natural Language Processing (NLP)**
-- **Retrieval-Augmented Generation (RAG) Framework**
-- **LangChain Website Parser for Document Retrieval & Parsing**
-- **Working with Pre-trained ML Models**
-- **Integration of AI Models like Gemini**
-
-### 🔹 **Databases**
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/> 
-  <img src="https://www.vectorlogo.zone/logos/json/json-icon.svg" alt="JSON" width="40" height="40"/> 
-</p>
-
-### 🔹 **Simulation & Data Processing**
-- **MATLAB**
-
-### 🔹 **Chatbot Development**
-- **AI-powered chatbot creation**
-- **Data-driven Q&A systems**
-- **Multi-lingual chatbots**
-
----
+<div align="center"> 
+  <img src="https://streak-stats.demolab.com?user=kamalllx&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kamalllx&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=7&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
 ## 📊 **GitHub Stats & Activity (From September 2023 - Present)**
 
@@ -82,19 +67,45 @@
 
 ---
 
-## 🌟 **Top Languages**
+## 🏆 **Achievements**
+- 🥇 **1st Place** @ BIT Hackathon 2024  
+- 🥇 **1st Place** @ PES Hackathon (CIDECODE) 2025  
+- 🥇 **1st Place** @ MSRIT Hackathon (wHACKiest) 2024  
+- 🥈 **2nd Place** @ MIT CTF 2024  
+- 🥈 **2nd Place** @ AIT Hackathon 2024  
+- 🥉 **3rd Place** @ JIT Hackathon 2024  
+- 🔥 **Under 700 Global Rank @ picoCTF 2024**  
+---
+###
+
+<br clear="both">
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kamalllx&theme=radical&layout=compact&since=2023-09-01" alt="Top Languages" />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=__red_john__&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=9108055864&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=kamalkarteek1@gmail.com&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <a href="https://www.instagram.com/kamal_karteek/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/kamal-karteek-u/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
 </div>
 
----
+###
 
-## 📬 **Contact Me**
-📧 **Email:** [kamalkarteek1@gmail.com](mailto:kamalkarteek1@gmail.com)  
-📍 **Location:** Bengaluru, India  
-📱 **Phone:** +91 9108055864  
-🔗 **LinkedIn:** [kamal-karteek](https://www.linkedin.com/in/kamal-karteek-u/)  
+<br clear="both">
 
 ---
 
-⭐ **If you like my work, consider giving my repositories a star!** ⭐  
+<img src="https://raw.githubusercontent.com/kamalllx/kamalllx/output/snake.svg" alt="Snake animation" />
+
+###
+
+<br clear="both">
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/kamalllx/count.svg?"  />
+</div>
+
+###
