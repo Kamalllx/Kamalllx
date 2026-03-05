@@ -9,7 +9,7 @@
 
 <h3 align="center">SIH'24 Runner Up |Intern @ ISRO | Exploring AI, RAG, Agentic AI & MCP |</h3>
 <h3 align="center">Vice Presidnt @ AWS Cloud Club RIT | Core Member @ SecuRIT | </h3>
-<h3 align="center">Project Intern @ CMTI| Project Intern @ OPQ Tech |</h3>
+<h3 align="center">Project Intern @ CMTI| Project Intern @ Hampi Labs | Project Intern @ ChessWorld AI</h3>
 
 
 
