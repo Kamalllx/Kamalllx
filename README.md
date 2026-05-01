@@ -3,7 +3,7 @@
 <div align="center">
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=22&duration=3000&pause=600&color=00FF9C&center=true&vCenter=true&width=700&height=50&lines=Architecting+AI+that+ships+to+production.;Computer+Vision+%7C+Agentic+AI+%7C+RAG+%7C+Full+Stack;CMTI+%E2%80%A2+ChessWorld+AI+%E2%80%A2+Hampi+Labs;9.60+CGPA+%7C+6%C3%97+Hackathon+Winner+%7C+AIR+5+CTF" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=22&duration=3000&pause=600&color=00FF9C&center=true&vCenter=true&width=700&height=50&lines=Architecting+AI+that+ships+to+production.;Computer+Vision+%7C+Agentic+AI+%7C+RAG+%7C+Full+Stack;CMTI+%E2%80%A2+ChessWorld+AI+%E2%80%A2+Hampi+Labs;9.53+CGPA+%7C+6%C3%97+Hackathon+Winner+%7C+AIR+5+CTF" alt="Typing SVG" />
 </a>
 
 <br/><br/>
